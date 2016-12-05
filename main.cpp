@@ -3,8 +3,8 @@
 
 int main() {
 
-    B b;
-    b.print();
-    std::cout<<b.m<<std::endl;
+    A* b = new B();
+    b->print();
+//    std::cout<<b.m<<std::endl;
     return 0;
 }

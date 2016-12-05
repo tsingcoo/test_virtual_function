@@ -13,7 +13,7 @@ public:
     void print();
 
 //private:
-    int m;
+//    int n;
 };
 
 #endif //TEST_VIRTUAL_FUNCTION_DERIVE_H

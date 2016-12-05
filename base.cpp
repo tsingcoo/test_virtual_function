@@ -10,5 +10,5 @@ A::A() {
 }
 
 void A::print() {
-    std::cout<<m<<std::endl;
+    std::cout<<"A"<<std::endl;
 }

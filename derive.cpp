@@ -10,5 +10,5 @@ B::B() {
 }
 
 void B::print() {
-    std::cout<<m<<std::endl;
+    std::cout<<"B"<<std::endl;
 }
